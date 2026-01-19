@@ -1,0 +1,7 @@
+{
+  "name": "EduPal: Intelligent Personalized Tutor",
+  "description": "A sophisticated, multi-modal learning assistant that uses agentic reasoning and Socratic tutoring to provide highly personalized educational paths and adaptive content recommendations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
